@@ -1,6 +1,10 @@
 # PhoneGallery
 Developing Phone Gallery using AngularJS.
 
+**Safety first**
+
+On the side, before actually getting into AngularJS (and JS in general), before installing any software module using npm, make sure to issue following command: **npm config set ignore-scripts true**. It's important to care for safety first, then, care for the project,  and finally care for succesful maintenance and so on.
+
 I will be following tutorial from official Angular web site, variations are possible as I go along with the project.
 
 By following the tutorial, and following steps that I have to make, to complete gallery of android mobile phones, every step is the new branch on this repository.
