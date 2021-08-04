@@ -1,6 +1,12 @@
 # PhoneGallery
 Developing Phone Gallery using AngularJS.
 
+_Estimated time to finish the project is 3-6 months. Since, I am dedicating my self to the projct for in the spare time, I think this is enough time to fully finish open-source web-site project._
+
+_If someone wants to join they are welcome._
+
+_Project is open to varations during the development, for example, I would like to include new devices and make moderner look and feel compared to the one from the tutorial._
+
 **Safety first**
 
 On the side, before actually getting into AngularJS (and JS in general), before installing any software module using npm, make sure to issue following command: **npm config set ignore-scripts true**. It's important to care for safety first, then, care for the project,  and finally care for succesful maintenance, and consistency etc.
